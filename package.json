@@ -31,7 +31,6 @@
   },
   "dependencies": {
     "idb-keyval": "^3.2.0",
-    "modern-normalize": "^0.6.0",
     "preact": "^10.3.1",
     "preact-render-to-string": "^5.1.4",
     "qrcode": "^1.4.4"
