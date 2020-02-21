@@ -114,7 +114,7 @@ const generateLabel = () => ({
 
 export const lnpay = {
     createWallet: async () => {
-        const response = await fetch('${URL}/wallet', {
+        const response = await fetch(`${URL}/wallet`, {
             method: 'POST',
             headers: {
                 'Authorization': `Basic ${AUTH}`,
