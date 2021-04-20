@@ -13,6 +13,9 @@
     "lint": "eslint src",
     "test": "jest"
   },
+  "engines": {
+    "node": ">=12"
+  },
   "eslintConfig": {
     "extends": "eslint-config-synacor"
   },
